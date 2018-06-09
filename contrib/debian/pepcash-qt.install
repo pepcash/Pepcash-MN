@@ -1,0 +1,6 @@
+usr/local/bin/pepcash-qt usr/bin
+share/pixmaps/pepcash32.xpm usr/share/pixmaps
+share/pixmaps/pepcash16.xpm usr/share/pixmaps
+share/pixmaps/pepcash128.png usr/share/pixmaps
+debian/pepcash-qt.desktop usr/share/applications
+debian/pepcash-qt.protocol usr/share/kde4/services/

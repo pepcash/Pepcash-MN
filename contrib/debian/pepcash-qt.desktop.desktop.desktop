@@ -1,0 +1,11 @@
+[Desktop Entry]
+Encoding=UTF-8
+Name=PepCash
+Comment=PepCash P2P Cryptocurrency
+Exec=pepcash-qt %u
+Terminal=false
+Type=Application
+Icon=pepcash128
+MimeType=x-scheme-handler/pepcash;
+Categories=Office;Finance;
+Name[en_IN]=pepcash-qt.desktop.desktop

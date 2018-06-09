@@ -1,0 +1,20 @@
+<!DOCTYPE RCC><RCC version="1.0">
+    <qresource prefix="/translations">
+        <file alias="bg">locale/pepcash_bg.qm</file>
+        <file alias="de">locale/pepcash_de.qm</file>
+        <file alias="en">locale/pepcash_en.qm</file>
+        <file alias="es">locale/pepcash_es.qm</file>
+        <file alias="fi">locale/pepcash_fi.qm</file>
+        <file alias="fr">locale/pepcash_fr.qm</file>
+        <file alias="it">locale/pepcash_it.qm</file>
+        <file alias="ja">locale/pepcash_ja.qm</file>
+        <file alias="pl">locale/pepcash_pl.qm</file>
+        <file alias="pt">locale/pepcash_pt.qm</file>
+        <file alias="ru">locale/pepcash_ru.qm</file>
+        <file alias="sk">locale/pepcash_sk.qm</file>
+        <file alias="sv">locale/pepcash_sv.qm</file>
+        <file alias="vi">locale/pepcash_vi.qm</file>
+        <file alias="zh_CN">locale/pepcash_zh_CN.qm</file>
+        <file alias="zh_TW">locale/pepcash_zh_TW.qm</file>
+    </qresource>
+</RCC>

@@ -1,0 +1,3 @@
+debian/manpages/pepcashd.1
+debian/manpages/pepcash.conf.5
+debian/manpages/pepcash-cli.1
